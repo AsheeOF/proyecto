@@ -1,0 +1,135 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url("https://i.pinimg.com/564x/7d/b8/5a/7db85aee667b7cfc51fe8d36f789f4fb.jpg");
+  }
+  .contenedor{
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 5px;
+    color: #0a3871;
+  }
+  
+  .text-input{
+    float: right;
+    margin-right: 5%;
+    margin-top: 8%;
+    width: 80%;
+    height: 80%;
+    color:#0a3871 ;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background: white;
+    opacity: 80%;
+    font-weight: bold;
+  }
+  
+  .left{
+    float: left;
+    width: 70%;
+    height: 50%;
+    border-radius: 24px;
+  }
+  
+  .left-button{
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+  }
+  
+  #encriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    background: pink;
+    border-radius: 24px;
+    margin-left: 15%;
+  }
+  #desencriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    background: pink;
+    border-radius: 24px;
+    margin-left: 10%;
+  }
+  p{
+    margin-left: 5%;
+  }
+  .right{
+    float: right;
+    text-align: center;
+    border-radius: 24px;
+    width: 30%;
+    height: 80%;
+  }
+  
+  #imagen-derecha{
+    margin-top: 20%;
+    width: 90%;
+    height: auto;
+    left: 1032px;
+    top: 283px;
+  }
+  #texto #texto2{
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  
+  #copiar{
+    margin-left: 33%;
+    margin-top: 90%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background: pink;
+    border-radius: 24px;
+  }
+  .logo{
+    width: 100%;
+    float: left;
+  }
+  .logoImg{
+    margin-top: 1%;
+    float: inherit;
+    margin-left: 5%;
+  }
+  .tittle{
+    float: inherit;
+    margin-left: 15%;
+  }
+  
+  #texto2{
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    color: #0A3871;
+    width: 80%;
+    height: 60%;
+    outline: none;
+    border: none;
+    font-size: 15px;
+  }
+  
+  #imgTW{
+    float: right;
+    margin-right: 5%;
+    width: 10%;
+    height: 10%;
+  }
+   
+  footer{
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .copyright{
+    color: black;
+    font-size: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
